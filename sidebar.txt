@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bef:home|Door43 (bef)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bef|d43-bef repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bef/archive/master.zip|d43-bef.zip]]
+
+**Recent Changes**
+{{changes>ns = bef}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bef|Ethnologue data]]
+
